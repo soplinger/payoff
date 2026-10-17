@@ -1,0 +1,4 @@
+# name | balance | APR | minimum payment
+Visa         | 4200.00 | 24.99 | 120
+Car loan     | 9,800   | 6.5%  | 240
+Store card   | 650     | 29    | 35
